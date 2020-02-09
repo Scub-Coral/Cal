@@ -14,6 +14,7 @@ func main() {
 //　github連携
 //
 // 俺も追加したよー
+//waimo
 	e := echo.New()
 
 	t := &Template{
